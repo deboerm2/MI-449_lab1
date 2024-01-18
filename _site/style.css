@@ -13,17 +13,15 @@ body{
     padding-left: 100pt;
     word-spacing: 200pt;
 }
-button{
-    background-color: rgba(0,0,0,0);
-    border:none;
-    padding: 0%;
-}
+
 #images a{
     opacity: 30%;
+    text-decoration: none;
 }
 
 #images a:hover{
     opacity: 100%;
+    
 }
 
 #moon{

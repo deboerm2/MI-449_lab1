@@ -1,0 +1,31 @@
+body{
+    margin: 50px;
+    background-color: rgb(34, 34, 34);
+    
+}
+#text{
+    color: aliceblue;
+    width: 500pt;
+}
+
+#images ul{
+    padding-top: 50pt;
+    padding-left: 100pt;
+    word-spacing: 200pt;
+}
+button{
+    background-color: rgba(0,0,0,0);
+    border:none;
+    padding: 0%;
+}
+#images a{
+    opacity: 30%;
+}
+
+#images a:hover{
+    opacity: 100%;
+}
+
+#moon{
+    transform: translateY(-100%);
+}
